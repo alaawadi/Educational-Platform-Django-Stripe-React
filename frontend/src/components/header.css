@@ -1,0 +1,20 @@
+.header{
+    padding-top: 15px;
+    height:2.7rem;
+    background-color: aqua;
+    
+}
+
+.link{
+    color: black;
+    margin: 10rem;
+    padding: 8px;
+    border: 1px solid;
+    border-radius:15px ;
+}
+
+.link:hover{
+    border: 3px solid;
+    background-color:brown;
+    padding: 15px;
+}
